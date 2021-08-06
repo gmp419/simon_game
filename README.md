@@ -1,1 +1,1 @@
-# simon_game
+# Simple Simon Game
